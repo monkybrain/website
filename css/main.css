@@ -1,0 +1,26 @@
+body {
+  font-family: 'Rokkitt';
+  background-color: #eeeeee;
+}
+
+.container {
+  padding-left: 10px;
+  width: 600px;
+}
+
+.image {
+  width: 300px;
+}
+
+.logo {
+  width: 100px;
+}
+
+a {
+  color: #e60000;
+}
+
+em {
+  color: #e60000;
+  font-style: normal;
+}
