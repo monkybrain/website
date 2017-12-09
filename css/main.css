@@ -5,7 +5,8 @@ body {
 
 .container {
   padding-left: 10px;
-  width: 600px;
+  padding-right: 10px;
+  max-width: 600px;
 }
 
 .image {
