@@ -1,6 +1,9 @@
 body {
   font-family: 'Rokkitt';
+  background-image: url('../img/concrete_seamless.png');
   background-color: #eeeeee;
+  background-repeat: repeat;
+
 }
 
 .container {
