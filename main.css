@@ -27,16 +27,32 @@ a {
   display: flex;
   flex-direction: column;
   justify-content: center;
+  align-items: center;
   height: 100%;
   width: 100%;
 }
 
+.dot {
+  width: 100px;
+  height: 100px;
+  background-color: #ff8c00;
+  border: 1px solid #a35b03;
+  border-radius: 50px;
+  background-image: url('img/monkey.svg');
+  background-size: 94%;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
 .title {
   font-size: 48px;
+  margin-top: 10px;
+  font-weight: 500;
 }
 
 .subtitle {
   font-size: 16px;
+  font-weight: 500;
 }
 
 .me {
